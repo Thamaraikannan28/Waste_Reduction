@@ -34,19 +34,19 @@ We are facing many different challenges across the world such as environmental a
 ## :open_file_folder: Long Description:
 
 
-   ## :pushpin: CHALLENGES DURING LONG DISTANCE TRANSPORTATION:
+  * ## :pushpin: CHALLENGES DURING LONG DISTANCE TRANSPORTATION:
 
 
    There are lot of factors which are responsible for causing food loss and food waste. As mentioned earlier, food waste occurs at all the stages of food supply chain. Fruits and vegetables are the most wasted food items. Retailers and consumers are purely responsible for food waste after the cultivation of fruits and vegetables. Fruits and vegetables have to be transported from retailers to consumers for consumption. Therefore, transportation plays a very important role in the supply chain. Fruits and vegetables cannot be delivered to the customer in a right time and in a right quality without proper transportation. Therefore, transportation plays even more important role in perishable food like fruits and vegetables because of short shelf life, high perishable, required controlled temperature. Transportation related challenges are very high in the India because of unavailability of well transportation mode, high cost of transportation, lack of temperature controlled vehicle for the movement of goods etc. During transportation, there is high possibility of at least one-fourth of the fruits and vegetables getting decayed which ultimately leads to wastage of fruits and vegetables. Therefore, we are in urgent need of finding some solution in order prevent the food waste during transportation without any refrigeration support. Temperature violations that lead to food loss have been a major issue for tracking companies, as many do not have established standards for accepting or rejecting temperature-controlled shipments. Being able to identify the potential locations, equipment, and circumstances under which a violation can happen ahead of time can improve the likelihood that your products will arrive in good condition. Shippers should also make sure that the carriers they work with, should have reliable equipment to avoid problems due to defective insulation or poor air circulation. By avoiding such issues on the road, transportation efficiency increases while negative environmental impact decreases.
 
 
-   ## :pushpin:WORKING PRINCIPLE:
+  * ## :pushpin:WORKING PRINCIPLE:
 
 
    Fruits and vegetables decay will definitely produce a measurable impact on temperature, humidity and methane gas. Therefore, a simple solution can be made by using an IOT based system. Sensors integrated with the NodeMCU ESP8266 wifi-module will be better for sensing the temperature, humidity and methane gas values. DHT11 sensor is used for measuring temperature and humidity. MQ4 gas sensor is used for measuring methane gas emitted by the decaying fruit or vegetable. Change of temperature, humidity and methane gas emission will differ from one fruit to the other and it also differ from one vegetable to the other. In this model, critical environmental factors like temperature, humidity and methane gas emission are monitored by using wireless sensor unit. The values from the DHT11 sensor and MQ4 sensor will be sent to the NodeMCU ESP8266 wifi-module. The values sensed by the sensors are analog but the microcontroller can process only the digital inputs. Therefore, the analog values will be converted into the digital input and it will be processed and then it will produce the output in analog format. The output from the microcontroller will be sent to the IBM cloud. The values from the cloud will also be updated in the database, website and the app created for it. All fruits and vegetables will have their own threshold value above which the fruits and vegetables will go into the decaying stage. When a fruit or vegetable crosses that particular threshold value, the user will be notified with the alert message. Therefore, it will be extremely useful for the user to know the exact condition of all the fruits and vegetables. The user will be benefitted in such a way that the user will be able to prevent the food waste during the stage of transportation. Finally, the app or the website created for it, will produce the details of the fruits and vegetables which are being transported through long distance. The user will be able to get the exact condition of the fruits and vegetables being transported.
 
 
-   ## :pushpin:HARDWARE REQUIREMENT:
+  * ## :pushpin:HARDWARE REQUIREMENT:
 
 
    * NODE MCU
