@@ -58,10 +58,10 @@ We are facing many different challenges across the world such as environmental a
 
 
           * Arduino software 
-               * IBM  cloud 
-               * Visual Studio Code for website
-               * Xampp server
-               * PyCharm (running flask)
+          * IBM  cloud 
+          * Visual Studio Code for website
+          * Xampp server
+          * PyCharm (running flask)
 
 
    ## :pushpin:IMPLEMENTATION:
