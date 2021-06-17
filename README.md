@@ -27,7 +27,7 @@ We are facing many different challenges across the world such as environmental a
      3.	The user will monitor the current conditions of the fruits and vegetables over a period of time.
      4.	The user will be notified with the alert message at the time when the parameters exceed the threshold value, so that the user can isolate that box and sell it for the immediate usage purposes.
      
-     ![Architecture](Architecture.png)
+   ![Architecture](Architecture.png)
 
 
 
