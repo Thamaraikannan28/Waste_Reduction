@@ -20,7 +20,7 @@ We are facing many different challenges across the world such as environmental a
 
 ## :bulb: Demo Video
 
-[![Video Demonstration](https://i.imgur.com/vKb2F1B.png)](Demo_Video.mp4)
+[![Video Demonstration](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/BJFxm9Z3JUc)
 
 ## 🔳 The Architecture
 
