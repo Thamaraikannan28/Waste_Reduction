@@ -49,19 +49,19 @@ We are facing many different challenges across the world such as environmental a
    ## :pushpin:HARDWARE REQUIREMENT:
 
 
-          * NODE MCU
-          * DHT 11 
-          * MQ 4
+   * NODE MCU
+   * DHT 11 
+   * MQ 4
 
 
    ## :pushpin:SOFTWARE REQUIREMENT:
 
 
-          * Arduino software 
-          * IBM  cloud 
-          * Visual Studio Code for website
-          * Xampp server
-          * PyCharm (running flask)
+   * Arduino software 
+   * IBM  cloud 
+   * Visual Studio Code for website
+   * Xampp server
+   * PyCharm (running flask)
 
 
    ## :pushpin:IMPLEMENTATION:
