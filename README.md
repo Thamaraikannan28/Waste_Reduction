@@ -21,13 +21,13 @@ We are facing many different challenges across the world such as environmental a
 
 ## 🔳 The Architecture
 
-
-     1.	DHT11 sensor and MQ4 sensor will be kept inside a container box for monitoring.
-     2.	The data will be sent to the cloud for future analysis and it also stored in the database.
-     3.	The user will monitor the current conditions of the fruits and vegetables over a period of time.
-     4.	The user will be notified with the alert message at the time when the parameters exceed the threshold value, so that the user can isolate that box and sell it for the immediate usage purposes.
      
    ![Architecture](Architecture.png)
+   
+   1.	DHT11 sensor and MQ4 sensor will be kept inside a container box for monitoring.
+   2.	The data will be sent to the cloud for future analysis and it also stored in the database.
+   3.	The user will monitor the current conditions of the fruits and vegetables over a period of time.
+   4.	The user will be notified with the alert message at the time when the parameters exceed the threshold value, so that the user can isolate that box and sell it for the immediate usage purposes.
 
 
 
