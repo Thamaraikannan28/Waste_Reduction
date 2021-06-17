@@ -18,6 +18,9 @@ We are facing many different challenges across the world such as environmental a
 
   The idea is to create an IOT based system with sensors and microcontroller for the real time monitoring of the temperature, humidity and methane gas emission by the fruits and vegetables which are carried over long distance. The data will be sent to the IBM cloud for further analysis and prediction. The users will be provided with the application or the website in order to monitor during long distance transportation of fruits and vegetables. The user will be notified with an alert message if the food items start rotting. This will definitely help us in preventing the food waste about 40% in our daily life.
 
+## :bulb: Demo Video
+
+[![Video Demonstration](https://i.imgur.com/vKb2F1B.png)](Demo_Video.mp4)
 
 ## 🔳 The Architecture
 
