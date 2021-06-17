@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body, html {
+  height: 100%;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.bg-img {
+  /* The image used */
+  background-image: url("img5.jfif");
+
+  min-height: 1000px;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+
+/* Add styles to the form container */
+.container {
+  position: absolute;
+  left: 0;
+  
+  margin: 20px;
+  
+  padding: 20px;
+  background-color:white;
+}
+
+/* Full-width input fields */
+input[type=text], input[type=password], input[type=email], input[type=number], input[type=radio] {
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  border: none;
+  background-color:lightgrey;
+}
+
+input[type=text]:focus, input[type=password]:focus, {
+  background-color: #ddd;
+  outline: none;
+}
+
+/* Set a style for the submit button */
+.btn {
+  background-color: #4CAF50;
+  color: white;
+  padding: 16px 20px;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+
+.btn:hover {
+  opacity: 1;
+}
+</style>
+</head>
+<body>
+
+<h2>WELCOME TO LOGIN PAGE!!!</h2>
+<div class="bg-img">
+  <form action="signup.php" method="POST" class="container">
+    <h1>Login</h1>
+
+    <label for="USERNAME"><b>NAME</b></label>
+    <input type="text" placeholder="ENTER YOUR NAME HERE.." name="NAME" required>
+
+    <label for="EMAIL"><b>EMAIL_ID</b></label>
+    <input type="email" placeholder="ENTER YOUR EMAIL HERE.." name="EMAIL_ID" required>
+
+    
+    <button type="submit" class="btn">submit</button>
+  </form>
+</div>
+</body>
+</html>
